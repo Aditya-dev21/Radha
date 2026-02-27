@@ -9,4 +9,4 @@ COPY . .
 
 EXPOSE 7860
 
-CMD [".venv/Scripts/python.exe", "run.py"]
+CMD ["python", "run.py"]
