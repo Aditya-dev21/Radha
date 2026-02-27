@@ -1,0 +1,13 @@
+{
+  "session_id": "021974ea-e61b-4b3e-87c0-6ff2eda8d069",
+  "messages": [
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "assistant",
+      "content": "Kya haal hai, Aditya? Aaj ka din kaisa guzra?"
+    }
+  ]
+}
