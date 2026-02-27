@@ -1,11 +1,13 @@
 ---
 title: RADHA
-emoji: ✨
+emoji: 💜
 colorFrom: purple
-colorTo: violet
+colorTo: pink
 sdk: docker
 pinned: false
 ---
+
+
 # R.A.D.H.A - Responsive And Deeply Human Assistant
 
 An intelligent AI assistant built with FastAPI, LangChain, Groq AI, and a modern glass-morphism web UI. RADHA provides two chat modes (General and Realtime with web search), streaming responses, text-to-speech, voice input, and learns from your personal data files. Everything runs on one server with one command.
