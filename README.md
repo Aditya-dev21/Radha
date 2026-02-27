@@ -567,7 +567,7 @@ Typical latencies:
 
 ## Developer
 
-**R.A.D.H.A** was developed by **Vansh Tiwari**.
+**R.A.D.H.A** was developed by **Aditya Yadav**.
 
 
 ## 📄 License
@@ -575,7 +575,7 @@ MIT License
 
 ---
 
-Made with ❤️ by **Vansh Tiwari** 
+Made with ❤️ by **Aditya Yadav** 
 
 ---
 **Start chatting:** `python run.py` then open http://localhost:8000
